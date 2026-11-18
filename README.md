@@ -3,7 +3,8 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Blog Post Page</title>
+        <a href="https://roadmap.sh/projects/blog-post-page"></a>
+        <title>Home</title>
     </head>
     <body>
         <header>
